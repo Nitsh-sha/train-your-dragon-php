@@ -1,61 +1,21 @@
-# [Start Bootstrap - Modern Business](https://startbootstrap.com/template-overviews/modern-business/)
+# [Train your Dragons - php](https://drive.google.com/file/d/1hWZSYv8FSehObtRahOjmOvMbBIed6PuY/view?usp=sharing)
 
-[Modern Business](http://startbootstrap.com/template-overviews/modern-business/) is a multipurpose, full website template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.
+For this dynamic website project, I have chosen a movie tribute based on my favourite animation movie called ‘How to train your dragon’. The movie consists of series of episodes due to its popularity among children and adults alike. The franchise also extends to games and continuous short series on Netflix with on-going new productions. Although the main movies include various characters including humans and dragons. This website is dedicated solely on the dragon characters.
+In order to build the website, I use ‘the Avenger Marvel HQ’ movie tribute website as an example. 
+Website link:
+https://avengers.marvelhq.com/
+It’s a dynamic, well-designed website created by Marvel. With a massive fanbase, the website consists all various components to serve its fans including product section, mobile app section, official movie clips, YouTube clips, Character specific videos, comic sections and games sections. 
+Although the Avenger website is appealing and user-friendly, it lacks the ability for each member to personalise customise and personalise his/her experience, 
+To personalise the experience and enhance user interaction for our ‘How to train you dragon’ fans, I will be adding other dynamic functionality for the website which is not included in the Avenger websites including membership login function, feedback and rating function, member comment and post function (and the ability for other members to response to the post), favourite marking function. This will also provide a better access to information with more effective flow of communication. On the other hand, I will also be looking at database efficiency for fast loading time, scalability, and automation of information flow. 
+
+The website will be based on a development stack of HTML, CSS, JavaScript’s as well as frameworks such as jQuery, Bootstraps and CSS Grids. For backend functionality, the website will use PHP and MySQL database system. Minimalist, mobile-first design is a crucial current trend and will be used in the design process of this website. 
+
+As this website will have multiple pages, maintaining clean code can in one of the priorities. A dynamic design will support easy update on the website, keeping the website dry, as well as improving the workflow through reusable templates. 
+
 
 ## Preview
 
-[![Modern Business Preview](https://startbootstrap.com/assets/img/templates/modern-business.jpg)](https://blackrockdigital.github.io/startbootstrap-modern-business/)
+Please php document for preview and detailed report.
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-modern-business/)**
+**[View PDF document](https://drive.google.com/file/d/1hWZSYv8FSehObtRahOjmOvMbBIed6PuY/view?usp=sharing)**
 
-## Status
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-modern-business/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-modern-business.svg)](https://www.npmjs.com/package/startbootstrap-modern-business)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-modern-business.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-modern-business)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-modern-business/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-modern-business)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-modern-business/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-modern-business?type=dev)
-
-## Download and Installation
-
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/modern-business/)
-* Install via npm: `npm i startbootstrap-modern-business`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-modern-business.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-modern-business)
-
-## Usage
-
-### Basic Usage
-
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
-
-### Advanced Usage
-
-After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
-
-You must have npm and Gulp installed globally on your machine in order to use these features.
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-modern-business/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/modern-business/).
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-modern-business/blob/gh-pages/LICENSE) license.
-"# train-your-dragon-php" 
