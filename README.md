@@ -15,7 +15,7 @@ As this website will have multiple pages, maintaining clean code can in one of t
 
 ## Preview
 
-Please php document for preview and detailed report.
+Please see document for preview and detailed report.
 
 **[View PDF document](https://drive.google.com/file/d/1hWZSYv8FSehObtRahOjmOvMbBIed6PuY/view?usp=sharing)**
 
